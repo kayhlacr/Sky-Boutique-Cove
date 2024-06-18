@@ -1,0 +1,35 @@
+.navbar {
+  background-color: #efe9de;
+  height: 60px;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.business-name {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 20px;
+  color: #987070;
+  margin-left: 60px;
+}
+
+.shopping-bag img {
+  height: 60px;
+  margin-left: 30px;
+}
+
+.page-titles-container {
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  font-family: "Cormorant Garamond", serif;
+  margin: 5px;
+}
+
+.page-titles-container h1 {
+  margin: 0 0.5rem;
+  font-size: 10px;
+  color: #987070;
+}
